@@ -1,0 +1,15 @@
+{
+  "name": "algorebot",
+  "version": "1.0.0",
+  "description": "This BOT is for RapaxProject use only made by -AlgoreFounder and CEO of RapaxProject",
+  "main": "bot.js",
+  "scripts": {
+    "test": "nodemon bot.js"
+  },
+  "author": "Algore",
+  "license": "MIT",
+  "dependencies": {
+    "discordie": "^0.5.7"
+  },
+  "devDependencies": {}
+}
